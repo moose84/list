@@ -1,2 +1,3 @@
-(\.|^)redtube\.com$
-(\.|^)showup\.tv$
+redtube.com
+showup.tv
+pornhub.com
