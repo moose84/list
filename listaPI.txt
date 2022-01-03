@@ -1,4 +1,5 @@
 youtube.com
+googlevideo.com
 discord.com
 iderepublica.pl
 curseforge.com
